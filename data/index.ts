@@ -54,6 +54,22 @@ export const projects = [
     iconLists: ["/re.svg"],
     link: "movie-app-five-lime.vercel.app",
   },
+  {
+    id: 3,
+    title: "Modern Gaming Website",
+    des: "Modern Animated Gaming Website with scroll based animations",
+    img: "/gallery-4.webp",
+    iconLists: ["/re.svg", "/tail.svg", "/gsap.svg"],
+    link: "zentry-clone-2025.vercel.app",
+  },
+  {
+    id: 4,
+    title: "Storage & File Sharing Application",
+    des: "A storage management and file sharing platform that lets users effortlessly upload, organize, and share files.",
+    img: "/files.svg",
+    iconLists: ["/next.svg", "/tail.svg", "app.svg", "/shadcn.jpg"],
+    link: "storage-app-2025.vercel.app/sign-in",
+  },
 ];
 
 export const workExperience = [
